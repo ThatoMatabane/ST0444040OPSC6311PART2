@@ -73,3 +73,42 @@ Your Name - Lead Developer & Logic Architect - GitHub Profile
 🛡 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Sapphire — Building a brighter financial future, one transaction at a time. 💎
+
+
+## 📺 App Walkthrough & Demo
+
+Below is a visual overview of the Sapphire Finance Engine in action, demonstrating the user journey from authentication to advanced financial insights.
+
+### 🎥 Feature Showcase
+<!-- Replace the link below with your actual video link or a GIF of the video -->
+[Click here to watch the full App Demo](https://youtu.be/IkJFBW3gOe4?si=CfyfZfLO5gNM2vvo)
+GITLINK(https://github.com/ThatoMatabane)
+### 🛠 Key Workflow (As seen in the Demo)
+
+1. **Onboarding & Security**
+   - **Splash Screen:** Branded entry point.
+   - **User Authentication:** A secure Registration and Login system where users sign up with Full Name, Email, and Password. 
+   - **Personalized Experience:** The dashboard greets users with a "Welcome Back" text specifically for their account.
+
+2. **The Intelligent Dashboard**
+   - **Real-Time Balancing:** View Total Balance, Budget, and Expenses at a glance.
+   - **Dynamic Visualization:** A custom Bar Chart that updates instantly as transactions are added.
+   - **Recent Transactions:** A clean, scrollable list (RecyclerView) showing the latest financial activity with color-coded indicators (Red for Expenses, Green for Income).
+
+3. **Advanced Transaction Entry**
+   - **Income/Expense Toggle:** Easily switch between money coming in and going out.
+   - **Smart Pickers:** Integrated Date Picker for historical accuracy.
+   - **Category Chips:** Quick-select categories like Food, Transport, and Shopping.
+   - **Multimedia Support:** Optionally attach receipt photos or descriptive images directly from the device gallery.
+
+4. **Savings Vault & Goal Setting**
+   - **Structured Goals:** Create specific savings targets (e.g., Emergency Fund) with target amounts.
+   - **Deposit System:** Move funds from the main balance into a specific goal with a single tap.
+   - **Progress Visualization:** A dedicated progress bar showing exactly how close you are to reaching your financial dreams.
+
+5. **Financial Insights & Gamification**
+   - **Spending Patterns:** The engine analyzes data to detect "High Spending Trends."
+   - **Savings Opportunities:** Automated advice based on the current balance.
+   - **Recommended Actions:** Actionable tips (e.g., "Save R25 daily") to help users reach their targets faster.
+
+---
