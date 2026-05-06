@@ -81,7 +81,7 @@ Below is a visual overview of the Sapphire Finance Engine in action, demonstrati
 
 ### 🎥 Feature Showcase
 <!-- Replace the link below with your actual video link or a GIF of the video -->
-[Click here to watch the full App Demo](https://youtu.be/IkJFBW3gOe4?si=CfyfZfLO5gNM2vvo)
+[Click here to watch the full(https://youtu.be/AsdYXdn5tUY?si=nRWnGXs4yG1F6vYq)
 GITLINK(https://github.com/ThatoMatabane)
 ### 🛠 Key Workflow (As seen in the Demo)
 
